@@ -8,11 +8,11 @@ Hier findest du sowohl Dokumentationen der einzelnen Calls und relevante Call-Re
 
 | Ordner                                         | Inhalt                                                                |
 | ---------------------------------------------- | --------------------------------------------------------------------- |
-| [`call-documentations/`](call-documentations/) | Zusammenfassungen der einzelnen Calls, sortiert nach Datum            |
-| [`projects/`](projects/)                       | Die Projekte aus den Calls, ein Ordner pro Projekt mit eigener README |
+| [`docs/`](call-docs/) | Zusammenfassungen der einzelnen Calls, sortiert nach Datum            |
+| [`projects/`](projects/)                       | (In Arbeit) Die Projekte aus den Calls, ein Ordner pro Projekt mit eigener README |
 
 ## So steigst du ein
 
-1. Lies die Zusammenfassung des Calls in [`call-documentations/`](call-documentations/). Dort stehen auch Links zu Videos und offiziellen Dokumentationen.
-2. Öffne das passende Projekt in [`projekte-workflows/`](projekte-workflows/) und folge dessen README.
+1. Lies die Zusammenfassung des Calls unter [`docs/`](docs/). Dort stehen auch Links zu Videos und offiziellen Dokumentationen.
+2. Öffne das passende Projekt in [`projects/`](projects/) und folge dessen README.
 3. Bau das Projekt selbst nach und probiere eigene Varianten aus.
