@@ -8,7 +8,7 @@ Hier findest du sowohl Dokumentationen der einzelnen Calls und relevante Call-Re
 
 | Ordner                                         | Inhalt                                                                |
 | ---------------------------------------------- | --------------------------------------------------------------------- |
-| [`docs/`](call-docs/) | Zusammenfassungen der einzelnen Calls, sortiert nach Datum            |
+| [`docs/`](docs/)                               | Zusammenfassungen der einzelnen Calls, sortiert nach Datum            |
 | [`projects/`](projects/)                       | (In Arbeit) Die Projekte aus den Calls, ein Ordner pro Projekt mit eigener README |
 
 ## So steigst du ein
